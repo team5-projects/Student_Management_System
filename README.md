@@ -162,3 +162,9 @@ Collections will be created automatically when data is inserted.
 ### Student Dashboard
 
 ![Student Dashboard](screenshots/student_dashboard.png)
+
+## Team Members
+S. M. M. Siva Priya
+M. Lalitha Sowjanya
+N. Surya Manikanta
+A. S. R. S. Surya Teja
